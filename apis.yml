@@ -1,7 +1,12 @@
 aid: chevron
-url: https://raw.githubusercontent.com/api-evangelist/chevron/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/chevron/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis: []
 common:
   - type: Website
     url: https://www.chevron.com
+description: >-
+  Chevron is one of the world's largest integrated energy companies, with operations
+  across exploration, production, refining, marketing, and transportation of crude
+  oil, natural gas, and petroleum products.
