@@ -41,6 +41,8 @@ modified: '2026-04-23'
 specificationVersion: '0.20'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/chevron-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/chevron
   - type: Website
