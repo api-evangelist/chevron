@@ -1,7 +1,9 @@
 ---
 title: Chevron Picks Texas for First AI Data Center Power Project
 url: https://energynow.com/2025/11/chevron-picks-texas-for-first-ai-data-center-power-project/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Chevron" press release artificial intelligence'
 position: 5
 source: serpapi-google

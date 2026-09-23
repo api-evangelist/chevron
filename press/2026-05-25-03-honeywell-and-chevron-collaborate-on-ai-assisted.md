@@ -1,7 +1,9 @@
 ---
 title: Honeywell and Chevron Collaborate on AI-Assisted ...
 url: https://www.honeywell.com/us/en/press/2024/10/honeywell-and-chevron-collaborate-on-ai-assisted-solutions-for-refining-processes
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Chevron" press release artificial intelligence'
 position: 3
 source: serpapi-google

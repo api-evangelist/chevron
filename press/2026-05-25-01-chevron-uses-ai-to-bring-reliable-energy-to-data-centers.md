@@ -1,7 +1,9 @@
 ---
 title: Chevron uses AI to bring reliable energy to data centers
 url: https://www.chevron.com/newsroom/2025/q1/chevron-uses-ai-to-bring-reliable-energy-to-data-centers
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Chevron" press release artificial intelligence'
 position: 1
 source: serpapi-google

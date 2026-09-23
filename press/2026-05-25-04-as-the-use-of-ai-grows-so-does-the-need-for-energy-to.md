@@ -1,7 +1,9 @@
 ---
 title: As the use of AI grows, so does the need for energy to ...
 url: https://www.facebook.com/Chevron/posts/as-the-use-of-ai-grows-so-does-the-need-for-energy-to-power-data-centers-america/1159771336188055/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Chevron" press release artificial intelligence'
 position: 4
 source: serpapi-google

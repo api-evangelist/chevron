@@ -1,7 +1,9 @@
 ---
 title: 'Intelligent operations in action: By using data from drones ...'
 url: https://www.facebook.com/Chevron/posts/intelligent-operations-in-action-by-using-data-from-drones-and-ai-anthony-and-hi/1385875790244274/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Chevron" press release artificial intelligence'
 position: 2
 source: serpapi-google
