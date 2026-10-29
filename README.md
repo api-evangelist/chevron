@@ -1,4 +1,4 @@
-# Chevron (chevron)
+# Chevron
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,95 +64,79 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Chevron Corporation is one of the world's largest integrated energy companies, with operations across upstream exploration and production, downstream refining and marketing, and the production and transportation of crude oil, natural gas, refined fuels, lubricants, petrochemicals, and renewable fuels. Chevron is headquartered in Houston, Texas, and operates globally under brands including Chevron, Texaco, and Caltex.
+Chevron Corporation is one of the world's largest integrated energy companies, with operations across upstream exploration and production, downstream refining and marketing, and the production and transportation of crude oil, natural gas, refined fuels, lubricants, petrochemicals, and renewable fuels. Chevron is headquartered in Houston, Texas, and operates globally under brands including Chevron, Texaco, and Caltex. Chevron does not currently publish a public consumer-facing developer API; supplier and partner integrations are handled through the Chevron Invoice and Payment Status (CIPS) system and the Supplier Relations channels, and investors and stakeholders are served through corporate, sustainability, and IR websites.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/chevron/refs/heads/main/apis.yml)
+**Areas:** Caltex · Chemicals · Crude Oil · Downstream · Energy · Fortune 500 · Houston · Integrated Energy · LNG · Lubricants · Natural Gas · Petroleum
 
-## Scope
+## Chevron on APIs.io
 
-- **Type:** Index
-- **Position:** Consuming
-- **Access:** 3rd-Party
+Everything profiled for Chevron is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/chevron/](https://apis.io/providers/chevron/)** — or go straight to one of the APIs or properties below.
 
-## Tags
+### Published properties
 
-- Caltex
-- Chemicals
-- Crude Oil
-- Downstream
-- Energy
-- Fortune 500
-- Houston
-- Integrated Energy
-- LNG
-- Lubricants
-- Natural Gas
-- Petroleum
-- Refining
-- Renewable Fuels
-- Texaco
-- Upstream
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## Timestamps
+#### Security (1)
 
-- **Created:** 2026-03-21
-- **Modified:** 2026-04-23
+Authentication, trust centre, and vulnerability disclosure.
 
-## APIs
+- [Chevron Domain Security](https://apis.io/security/chevron/chevron-domain-security/)
 
-Chevron does not currently publish a public consumer-facing developer API. Supplier and partner integrations are handled through the Chevron Invoice and Payment Status (CIPS) system and Supplier Relations channels.
+## Where to find this API
 
-## Common Properties
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.chevron.com)
-- [Investor Relations](https://chevroncorp.gcs-web.com/)
-- [Careers](https://careers.chevron.com/)
-- [Contact / Supplier Relations](https://www.chevron.com/who-we-are/contact)
-- [Chevron Invoice and Payment Status (CIPS)](https://invoicestatus.chevron.com)
-- [Sustainability](https://www.chevron.com/sustainability)
-- [Newsroom](https://www.chevron.com/newsroom)
-- [Operations](https://www.chevron.com/operations)
-- [Brands](https://www.chevron.com/who-we-are/our-brands)
-- [Texaco Brand](https://www.texaco.com)
-- [Caltex Brand](https://www.caltex.com)
-- [Chevron Technology Ventures](https://www.chevron.com/technology/technology-ventures)
 
-## Business Segments
+## API Evangelist rating
 
-- Upstream Exploration and Production
-- Downstream Refining
-- Marketing and Retail
-- Petrochemicals
-- Lubricants
-- Renewable Fuels
-- Liquefied Natural Gas (LNG)
-- Carbon Capture, Utilization and Storage
-- Hydrogen
-- Cash, Real Estate, Insurance and Technology Ventures
+**Kin Score 3.7** — minimal · rubric 0.24.0 · scored 2026-10-17
 
-## Brands
+| Facet | Score |
+|---|---|
+| Discoverability | 49.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 0.0 |
 
-- Chevron
-- Texaco
-- Caltex
-- Havoline
-- Delo
+**Agent readiness 0.0** — human-only
 
-## Use Cases
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
 
-- Crude Oil Production
-- Natural Gas Production
-- Refining and Petroleum Products
-- Retail Fuel Marketing
-- Lubricants Manufacturing
-- Renewable Fuels Production
-- LNG Export
-- Carbon Capture and Storage
-- Hydrogen Production
-- Energy Technology Investment
+**Regulatory alignment 4.9** — Energy & Utilities
 
-## Maintainers
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/chevron/](https://apis.io/providers/chevron/).
 
-**FN:** Kin Lane
+## How this profile is made
 
-**Email:** kin@apievangelist.com
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Chevron: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/chevron/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
